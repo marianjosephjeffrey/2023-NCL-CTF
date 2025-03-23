@@ -1,6 +1,6 @@
 # 🛡️ NCL @ WiCyS 2023 CTF
 
-![Event Banner](https://upload.wikimedia.org/wikipedia/commons/8/8d/WiCyS_logo.png) <!-- Optional banner image -->
+![Event Banner](images.jpg)
 
 ## 🏁 Overview
 
